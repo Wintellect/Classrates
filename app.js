@@ -72,7 +72,7 @@ var commentCounts = [0, 0, 0, 0, 0, 0];
 var classTitles = ['Deep Learning with Neural Networks', 'Advanced Calculus for Scholarship Athletes', 'Data Structures and Algorithms in Python', 'Processing Big Data with Spark and Hadoop', 'Essential Mathematics for Machine Learning', 'Social Media for Career Advancement'];
 var classDescriptions = [
   'The future of software development lies in deep learning. Discover what deep learning is, how it works, and how to build neural networks using popular libraries such as CNTK and TensorFlow.',
-  'Take a deep dive into integrals, partial differential equations, and other tenets of advanced calculus. A great way to kill time on the sidelines when you\'re waiting for the next series!',
+  'Take a deep dive into integrals, partial differential equations, and other tenets of advanced calculus. A great way to kill time on the sidelines while waiting for your name to be called!',
   'Python is the language of choice for data scientists worldwide. Learn how to build machine-learning models in Python using popular libraries such as scikit-learn and TensorFlow.',
   'Learn how to use Apache Hadoop and Apache Spark to extract information from massive datasets. Also learn how to deploy Hadoop and Spark clusters in Azure with just a few button clicks.',
   'Machine learning is rooted in statistics. Prepare yourself for a career in machine learning by learning about regression and other tools that put the learning in machine learning.',
